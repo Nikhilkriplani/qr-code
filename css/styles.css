@@ -1,0 +1,12 @@
+body{
+  text-align: center;
+}
+.qr{
+  width: 30%;
+  height:50%;
+  margin: auto;
+  vertical-align: middle;
+}
+.qr-image{
+  width: 30%;
+}
